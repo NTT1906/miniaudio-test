@@ -1,0 +1,3 @@
+D:/clion/miniaudio-test/cmake-build-debug/CMakeFiles/miniaudio_test.dir
+D:/clion/miniaudio-test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion/miniaudio-test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

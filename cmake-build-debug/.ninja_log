@@ -1,0 +1,16 @@
+# ninja log v5
+2	176	7330911527704469	build.ninja	9e7fed57e64b837e
+1	4405	7330911572813878	CMakeFiles/miniaudio_test.dir/main.c.obj	226af793c929ff92
+4430	4581	7330911574647558	miniaudio_test.exe	7b4b8c36c614afba
+3	4075	7330913911857677	CMakeFiles/miniaudio_test.dir/main.c.obj	226af793c929ff92
+4076	4218	7330913913358376	miniaudio_test.exe	7b4b8c36c614afba
+3	3883	7330916494841211	CMakeFiles/miniaudio_test.dir/main.c.obj	226af793c929ff92
+3884	4088	7330916496970821	miniaudio_test.exe	7b4b8c36c614afba
+3	3959	7330917493810406	CMakeFiles/miniaudio_test.dir/main.c.obj	226af793c929ff92
+3959	4137	7330917495656132	miniaudio_test.exe	7b4b8c36c614afba
+2	4255	7330917755179713	CMakeFiles/miniaudio_test.dir/main.c.obj	226af793c929ff92
+4255	4393	7330917756660151	miniaudio_test.exe	7b4b8c36c614afba
+3	3786	7330917861156622	CMakeFiles/miniaudio_test.dir/main.c.obj	226af793c929ff92
+3786	3962	7330917863014693	miniaudio_test.exe	7b4b8c36c614afba
+3	3990	7330918094405117	CMakeFiles/miniaudio_test.dir/main.c.obj	226af793c929ff92
+3990	4117	7330918095735199	miniaudio_test.exe	7b4b8c36c614afba
